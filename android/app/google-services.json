@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "444368355777",
+    "project_id": "fir-demo-application-appsnado",
+    "storage_bucket": "fir-demo-application-appsnado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444368355777:android:6d5cdcb466f28a196d6f40",
+        "android_client_info": {
+          "package_name": "com.appsnado.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444368355777-3hek92352dullr2hdooanocou0hrpna2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "8048cd621093fab395cbb7379bb3c52b92629b1f"
+          }
+        },
+        {
+          "client_id": "444368355777-8o7s8leisphf99ffg0qa7o9b7tot1s93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "444368355777-l06cp8qmiq3mfm5acnpv90a88nk4tcic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "0a7abc2b6e580c0e9fc80dc0794daa7a1bb319fe"
+          }
+        },
+        {
+          "client_id": "444368355777-n1tbvkh9oj1gh2fd98iishli2q1jojvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "738c0827ab045c8fc3262846e3ebce6de61ebe4f"
+          }
+        },
+        {
+          "client_id": "444368355777-n5jrrho0gitstfjql7unbfedbb91rpg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "b5a3f4776a970d89a044adced15b1bb6a917dd0a"
+          }
+        },
+        {
+          "client_id": "444368355777-n82sdictpncuu15cjhqs36andie6rmqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "1a9fd99d9e77b3ac86ba6bbded7afac047a19050"
+          }
+        },
+        {
+          "client_id": "444368355777-o64brn4ong4657ttsbpjg5hfnpi9pp5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "09608e298a102c35babb377111368b0e08fe1a91"
+          }
+        },
+        {
+          "client_id": "444368355777-pm2gf8beha0tl25hkh3ean51oepqgkf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "6f246aa033a893a8e64f15b4a5d579db4d592002"
+          }
+        },
+        {
+          "client_id": "444368355777-qi95gc3iaspn97kl6opdjfrqv3j20932.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.demo",
+            "certificate_hash": "60b08503935d75edd370bf776d255a6c1b32f870"
+          }
+        },
+        {
+          "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnBXSi-k8MY-_qcOORyIjFTiyeus-tk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444368355777-gfl1010jd7uni379v7ggi4sncrrve4vt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444368355777-tjaq2jseb0sl5n670995sjffmvkluh6j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
